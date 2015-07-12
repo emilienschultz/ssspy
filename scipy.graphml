@@ -290,6 +290,11 @@
       <data key="d1">1</data>
       <data key="d2">Jacob Hummel</data>
     </node>
+    <node id="Chris Wiggins">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chris Wiggins</data>
+    </node>
     <node id="Gregory Benson">
       <data key="d0">actor</data>
       <data key="d1">1</data>
@@ -742,7 +747,7 @@
     </node>
     <node id="2015">
       <data key="d0">year</data>
-      <data key="d3">11.7</data>
+      <data key="d3">12.0</data>
       <data key="d2">2015</data>
     </node>
     <node id="2014">
@@ -817,7 +822,7 @@
     </node>
     <node id="Wes Mckinney">
       <data key="d0">actor</data>
-      <data key="d1">6</data>
+      <data key="d1">7</data>
       <data key="d2">Wes Mckinney</data>
     </node>
     <node id="Christian Gehl">
@@ -1250,11 +1255,6 @@
       <data key="d1">2</data>
       <data key="d2">Rob Zinkov</data>
     </node>
-    <node id="Stefan Van Der Walt,">
-      <data key="d0">actor</data>
-      <data key="d1">1</data>
-      <data key="d2">Stefan Van Der Walt,</data>
-    </node>
     <node id="Jaime Huerta-Cepas">
       <data key="d0">actor</data>
       <data key="d1">1</data>
@@ -1322,7 +1322,7 @@
     </node>
     <node id="Stefan Van Der Walt">
       <data key="d0">actor</data>
-      <data key="d1">3</data>
+      <data key="d1">7</data>
       <data key="d2">Stefan Van Der Walt</data>
     </node>
     <node id="Pete Fein">
@@ -1714,11 +1714,6 @@
       <data key="d0">actor</data>
       <data key="d1">1</data>
       <data key="d2">Matt Davis</data>
-    </node>
-    <node id="Stéfan Van Der Walt">
-      <data key="d0">actor</data>
-      <data key="d1">3</data>
-      <data key="d2">Stéfan Van Der Walt</data>
     </node>
     <node id="Karl Young">
       <data key="d0">actor</data>
@@ -2337,7 +2332,7 @@
     </node>
     <node id="Jake Vanderplas">
       <data key="d0">actor</data>
-      <data key="d1">5</data>
+      <data key="d1">6</data>
       <data key="d2">Jake Vanderplas</data>
     </node>
     <node id="Adam Robbins-Pianka">
@@ -2619,6 +2614,9 @@
       <data key="d4">1</data>
     </edge>
     <edge source="Jacob Hummel" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Wiggins" target="2015">
       <data key="d4">1</data>
     </edge>
     <edge source="Gregory Benson" target="2007">
@@ -3017,6 +3015,9 @@
     <edge source="2015" target="Phillip Cloud">
       <data key="d4">1</data>
     </edge>
+    <edge source="2015" target="Wes Mckinney">
+      <data key="d4">1</data>
+    </edge>
     <edge source="2015" target="Matt Harrison">
       <data key="d4">1</data>
     </edge>
@@ -3173,9 +3174,6 @@
     <edge source="2015" target="Ian Henriksen">
       <data key="d4">1</data>
     </edge>
-    <edge source="2015" target="Stéfan Van Der Walt">
-      <data key="d4">1</data>
-    </edge>
     <edge source="2015" target="Damian Avila">
       <data key="d4">1</data>
     </edge>
@@ -3201,6 +3199,9 @@
       <data key="d4">1</data>
     </edge>
     <edge source="2015" target="Phil Roth">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jake Vanderplas">
       <data key="d4">1</data>
     </edge>
     <edge source="2015" target="Michka Popoff">
@@ -3716,7 +3717,7 @@
     <edge source="2013" target="Damian Avila">
       <data key="d4">1</data>
     </edge>
-    <edge source="2013" target="Kent Moffat">
+    <edge source="2013" target="Stefan Van Der Walt">
       <data key="d4">1</data>
     </edge>
     <edge source="2013" target="Christopher Beaumont">
@@ -3791,6 +3792,9 @@
     <edge source="2013" target="Olivier Grisel">
       <data key="d4">1</data>
     </edge>
+    <edge source="2013" target="Kent Moffat">
+      <data key="d4">1</data>
+    </edge>
     <edge source="2013" target="Andrew  Connolly">
       <data key="d4">1</data>
     </edge>
@@ -3837,9 +3841,6 @@
       <data key="d4">1</data>
     </edge>
     <edge source="2013" target="Andrzej Kosinski">
-      <data key="d4">1</data>
-    </edge>
-    <edge source="2013" target="Andrew Davison">
       <data key="d4">1</data>
     </edge>
     <edge source="2013" target="Florian Rathgeber">
@@ -3908,7 +3909,7 @@
     <edge source="2013" target="Joshua Warner">
       <data key="d4">1</data>
     </edge>
-    <edge source="2013" target="Stefan Van Der Walt,">
+    <edge source="2013" target="Andrew Davison">
       <data key="d4">1</data>
     </edge>
     <edge source="2013" target="Anthony Scopatz">
@@ -4152,9 +4153,6 @@
       <data key="d4">1</data>
     </edge>
     <edge source="Terence Yeoh" target="2007">
-      <data key="d4">1</data>
-    </edge>
-    <edge source="Stéfan Van Der Walt" target="2008">
       <data key="d4">1</data>
     </edge>
     <edge source="Karl Young" target="2008">

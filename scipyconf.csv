@@ -71,7 +71,7 @@
 2008;exploring network structure, dynamics, and function using networkx;aric hagberg
 2008;interval arithmetic: python implementation and applications;stefano taschini
 2008;experiences using scipy for computer vision research;damian eads
-2008;the new numpy documentation framework;stéfan van der walt
+2008;the new numpy documentation framework;stefan van der walt
 2008;matplotlib solves the riddle of the sphinx;michael droettboom
 2008;the scipy documentation project;joe harrington
 2008;sage: creating a viable free python-based open source alternative to magma, maple, mathematica and matlab;william stein
@@ -267,7 +267,7 @@
 2013;tutorial cython: speed up python and numpy, pythonize c, c++, and fortran;kurt smith
 2013;tutorial version control and unit testing for scientific software;matt davis;katy huff
 2013;tutorial an introduction to scikitlearn (i);gael varoquaux;jake vanderplas;olivier grisel
-2013;tutorial diving into numpy code;david cournapea;stefan van der walt,
+2013;tutorial diving into numpy code;david cournapea;stefan van der walt
 2013;tutorial statistical data analysis in python;christopher fonnesbeck
 2013;tutorial using geospatial data with python;kelsey jordahl
 2013;tutorial an introduction to scikitlearn (ii);gael varoquaux;jake vanderplas;olivier grisel
@@ -386,7 +386,7 @@
 2015;astropy in 2015;erik tollerud
 2015;automated image quality monitoring with iqmon;josh walawender
 2015;basic sound processing in python;speaker: allen downey
-2015;a better default colormap for matplotlib;stéfan van der walt
+2015;a better default colormap for matplotlib;stefan van der walt
 2015;the biopython project: freely available python tools for computational molecular biology and bioinformatics;tiago antao
 2015;blaze + odo;phillip cloud
 2015;building a cloud-based data science platform with python;stephen hoover
@@ -473,7 +473,7 @@
 2015;tutorial introduction to numpy (beginner);eric jones
 2015;tutorial machine learning with scikit-learn;andreas mueller
 2015;tutorial cython: blend the best of python and c/++ (intermediate);kurt smith
-2015;tutorial image analysis in python with scipy and scikit-image;joshua warne;stéfan van der walt;steven silvester
+2015;tutorial image analysis in python with scipy and scikit-image;joshua warne;stefan van der walt;steven silvester
 2015;tutorial analyzing and manipulating data with pandas;jonathan rocher
 2015;tutorial machine learning with scikit-learn;andreas mueller;kyle kastner
 2015;tutorial building python data applications with blaze and bokeh;christine doig-cardet
@@ -488,3 +488,6 @@
 2015;tutorial modern optimization methods in python (advanced);mike mckerns
 2015;tutorial jupyter advanced topics tutorial;jonathan frederic;matthias bussonnier;thomas kluyver
 2015;tutorial machine learning with scikit-learn;andreas mueller;kyle kastner
+2015;keynote: data science at the new york times;chris wiggins
+2015;keynote: my data journey with python;wes mckinney
+2015;Keynote: state of the tools;jake vanderPlas
