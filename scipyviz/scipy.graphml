@@ -1,0 +1,4228 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d4" />
+  <key attr.name="weight" attr.type="double" for="node" id="d3" />
+  <key attr.name="Label" attr.type="string" for="node" id="d2" />
+  <key attr.name="weight" attr.type="int" for="node" id="d1" />
+  <key attr.name="Type" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Mark Dewing">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mark Dewing</data>
+    </node>
+    <node id="Richard Riedel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Richard Riedel</data>
+    </node>
+    <node id="Kyle Wilcox">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kyle Wilcox</data>
+    </node>
+    <node id="Matthew Craig">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matthew Craig</data>
+    </node>
+    <node id="Ramalingam Saravanan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ramalingam Saravanan</data>
+    </node>
+    <node id="Eric Jones">
+      <data key="d0">actor</data>
+      <data key="d1">8</data>
+      <data key="d2">Eric Jones</data>
+    </node>
+    <node id="Robert Johansson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Robert Johansson</data>
+    </node>
+    <node id="Greg Wilson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Greg Wilson</data>
+    </node>
+    <node id="What'S New, Where We Are Headed">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">What'S New, Where We Are Headed</data>
+    </node>
+    <node id="Brian Wilson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian Wilson</data>
+    </node>
+    <node id="John Zuhone">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">John Zuhone</data>
+    </node>
+    <node id="Michele Vallisneri">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michele Vallisneri</data>
+    </node>
+    <node id="Nadia Dencheva">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nadia Dencheva</data>
+    </node>
+    <node id="Jonathan Helmus">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jonathan Helmus</data>
+    </node>
+    <node id="Jonas Behr">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jonas Behr</data>
+    </node>
+    <node id="Gunnar Raetsch">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gunnar Raetsch</data>
+    </node>
+    <node id="Kapil Arya">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kapil Arya</data>
+    </node>
+    <node id="Piotr A. Zolnierczuk">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Piotr A. Zolnierczuk</data>
+    </node>
+    <node id="Bharat Upadrasta">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bharat Upadrasta</data>
+    </node>
+    <node id="Ana Nelson">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Ana Nelson</data>
+    </node>
+    <node id="Margo Seltzer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Margo Seltzer</data>
+    </node>
+    <node id="Jeannie Irwin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jeannie Irwin</data>
+    </node>
+    <node id="Yoshua Bengio">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yoshua Bengio</data>
+    </node>
+    <node id="Torsten Bittne">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Torsten Bittne</data>
+    </node>
+    <node id="Armando Sole">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Armando Sole</data>
+    </node>
+    <node id="Kristopher Overholt">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kristopher Overholt</data>
+    </node>
+    <node id="Stephen Hoover">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stephen Hoover</data>
+    </node>
+    <node id="Nicholas Kridler">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nicholas Kridler</data>
+    </node>
+    <node id="Jorge Cañardo Alastuey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jorge Cañardo Alastuey</data>
+    </node>
+    <node id="Piotr Zolnierczuk">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Piotr Zolnierczuk</data>
+    </node>
+    <node id="Shams Imam">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Shams Imam</data>
+    </node>
+    <node id="Matthew Henderson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matthew Henderson</data>
+    </node>
+    <node id="Christopher Fonnesbeck">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christopher Fonnesbeck</data>
+    </node>
+    <node id="Sean Gillies">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sean Gillies</data>
+    </node>
+    <node id="Kristen Thyng">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kristen Thyng</data>
+    </node>
+    <node id="Michael J Pan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael J Pan</data>
+    </node>
+    <node id="Mehdi Amini">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mehdi Amini</data>
+    </node>
+    <node id="Robert Bradshaw">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Robert Bradshaw</data>
+    </node>
+    <node id="Chris Cope">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chris Cope</data>
+    </node>
+    <node id="Jai Ram Rideout">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jai Ram Rideout</data>
+    </node>
+    <node id="Jeff Daily">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jeff Daily</data>
+    </node>
+    <node id="Pat Marion">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Pat Marion</data>
+    </node>
+    <node id="Roberto Vidmar">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Roberto Vidmar</data>
+    </node>
+    <node id="Douglas Gregor">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Douglas Gregor</data>
+    </node>
+    <node id="Sargis Dallakyan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sargis Dallakyan</data>
+    </node>
+    <node id="Cameron Hummels">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cameron Hummels</data>
+    </node>
+    <node id="Alex Decaria">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alex Decaria</data>
+    </node>
+    <node id="Haitham Elmarakeby">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Haitham Elmarakeby</data>
+    </node>
+    <node id="Andreas Mueller">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Andreas Mueller</data>
+    </node>
+    <node id="Bruno Melo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bruno Melo</data>
+    </node>
+    <node id="Byron Ruth">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Byron Ruth</data>
+    </node>
+    <node id="Helge Reikeras">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Helge Reikeras</data>
+    </node>
+    <node id="Alexey Fedosov">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alexey Fedosov</data>
+    </node>
+    <node id="Brian  Nosek">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian  Nosek</data>
+    </node>
+    <node id="Chandrashekhar Kaushik">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chandrashekhar Kaushik</data>
+    </node>
+    <node id="Andrew Straw">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Andrew Straw</data>
+    </node>
+    <node id="Jacob Hummel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jacob Hummel</data>
+    </node>
+    <node id="Chris Wiggins">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chris Wiggins</data>
+    </node>
+    <node id="Gregory Benson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gregory Benson</data>
+    </node>
+    <node id="Benjamin Root">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Benjamin Root</data>
+    </node>
+    <node id="Robin Kraft">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Robin Kraft</data>
+    </node>
+    <node id="Robert Lupton">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Robert Lupton</data>
+    </node>
+    <node id="Jonathan Frederic">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jonathan Frederic</data>
+    </node>
+    <node id="Stanley Seibert">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stanley Seibert</data>
+    </node>
+    <node id="Serge Rey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Serge Rey</data>
+    </node>
+    <node id="Forrest Sheng Bao">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Forrest Sheng Bao</data>
+    </node>
+    <node id="Raffaele Montuoro">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Raffaele Montuoro</data>
+    </node>
+    <node id="Robert Kern">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Robert Kern</data>
+    </node>
+    <node id="Mark Wickert">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mark Wickert</data>
+    </node>
+    <node id="Jeff Bezanson">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jeff Bezanson</data>
+    </node>
+    <node id="Kelsey Jordahl">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Kelsey Jordahl</data>
+    </node>
+    <node id="Adrien Merlini">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Adrien Merlini</data>
+    </node>
+    <node id="Keith Jackson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Keith Jackson</data>
+    </node>
+    <node id="Howard Bushouse">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Howard Bushouse</data>
+    </node>
+    <node id="Brian Granger">
+      <data key="d0">actor</data>
+      <data key="d1">7</data>
+      <data key="d2">Brian Granger</data>
+    </node>
+    <node id="Amal Alghamdi">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Amal Alghamdi</data>
+    </node>
+    <node id="Guillaume Desjardins">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Guillaume Desjardins</data>
+    </node>
+    <node id="Corran Webster">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Corran Webster</data>
+    </node>
+    <node id="Rahul Garg">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Rahul Garg</data>
+    </node>
+    <node id="Olin College">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Olin College</data>
+    </node>
+    <node id="Matt Hall">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Matt Hall</data>
+    </node>
+    <node id="Philipp Rudiger">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Philipp Rudiger</data>
+    </node>
+    <node id="Jiwon Seo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jiwon Seo</data>
+    </node>
+    <node id="Jim Deleo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jim Deleo</data>
+    </node>
+    <node id="Vanderlei Oliveira">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Vanderlei Oliveira</data>
+    </node>
+    <node id="Andrew Yan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Yan</data>
+    </node>
+    <node id="Christine Doig-Cardet">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christine Doig-Cardet</data>
+    </node>
+    <node id="Minwoo Lee">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Minwoo Lee</data>
+    </node>
+    <node id="Matthew Knepley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matthew Knepley</data>
+    </node>
+    <node id="Andrew Wilson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Wilson</data>
+    </node>
+    <node id="Alexander Binder">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alexander Binder</data>
+    </node>
+    <node id="Michael Aye">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Aye</data>
+    </node>
+    <node id="Nicolas Pinto">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Nicolas Pinto</data>
+    </node>
+    <node id="Tareq Malas">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tareq Malas</data>
+    </node>
+    <node id="Travis Vaught">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Travis Vaught</data>
+    </node>
+    <node id="David Brown">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Brown</data>
+    </node>
+    <node id="Aaron Meurer">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Aaron Meurer</data>
+    </node>
+    <node id="Tony Yu">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tony Yu</data>
+    </node>
+    <node id="John Gunnels">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">John Gunnels</data>
+    </node>
+    <node id="Wim Lavrijsen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Wim Lavrijsen</data>
+    </node>
+    <node id="Ross Mitchell">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Ross Mitchell</data>
+    </node>
+    <node id="Andrew Friedley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Friedley</data>
+    </node>
+    <node id="Sebastian Henschel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sebastian Henschel</data>
+    </node>
+    <node id="Stephan Hoyer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stephan Hoyer</data>
+    </node>
+    <node id="Christian Widmer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christian Widmer</data>
+    </node>
+    <node id="Roy Weckiewicz">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Roy Weckiewicz</data>
+    </node>
+    <node id="Richard Hattersley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Richard Hattersley</data>
+    </node>
+    <node id="Bryan Van De Ven">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Bryan Van De Ven</data>
+    </node>
+    <node id="Brian D'Urso">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian D'Urso</data>
+    </node>
+    <node id="Damian Eads">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Damian Eads</data>
+    </node>
+    <node id="Carlos Cordoba">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Carlos Cordoba</data>
+    </node>
+    <node id="Sam Skillman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sam Skillman</data>
+    </node>
+    <node id="Mehmet Kunt">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mehmet Kunt</data>
+    </node>
+    <node id="Zachary Trautt">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Zachary Trautt</data>
+    </node>
+    <node id="Tiago Antao">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tiago Antao</data>
+    </node>
+    <node id="Marianne Corvellec">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Marianne Corvellec</data>
+    </node>
+    <node id="Dav Clark">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Dav Clark</data>
+    </node>
+    <node id="Henry Wheeler">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Henry Wheeler</data>
+    </node>
+    <node id="Jack Minardi">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jack Minardi</data>
+    </node>
+    <node id="Daniel Welling">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Daniel Welling</data>
+    </node>
+    <node id="Dan Yamins">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Dan Yamins</data>
+    </node>
+    <node id="Christopher Mueller">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christopher Mueller</data>
+    </node>
+    <node id="Alex Clemesha">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alex Clemesha</data>
+    </node>
+    <node id="Eric Jeschke">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eric Jeschke</data>
+    </node>
+    <node id="David Beazley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Beazley</data>
+    </node>
+    <node id="Rodney Harris">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Rodney Harris</data>
+    </node>
+    <node id="Sebastian Benthall">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sebastian Benthall</data>
+    </node>
+    <node id="Sören Sonnenburg">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sören Sonnenburg</data>
+    </node>
+    <node id="Chris Drake">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chris Drake</data>
+    </node>
+    <node id="Brian Refsdal">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Brian Refsdal</data>
+    </node>
+    <node id="Carson Farmer">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Carson Farmer</data>
+    </node>
+    <node id="Patrick Cole">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Patrick Cole</data>
+    </node>
+    <node id="Pavel Solin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Pavel Solin</data>
+    </node>
+    <node id="Zubin Dowlaty">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Zubin Dowlaty</data>
+    </node>
+    <node id="Glen Mabey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Glen Mabey</data>
+    </node>
+    <node id="Geraldine Van Der Auwera">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Geraldine Van Der Auwera</data>
+    </node>
+    <node id="Krishna Sridhar">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Krishna Sridhar</data>
+    </node>
+    <node id="Mattheus Ueckermann">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mattheus Ueckermann</data>
+    </node>
+    <node id="Manuel Quezada">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Manuel Quezada</data>
+    </node>
+    <node id="Tyler Erickson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tyler Erickson</data>
+    </node>
+    <node id="Jarrod Millman">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Jarrod Millman</data>
+    </node>
+    <node id="Michael Aivazis">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Aivazis</data>
+    </node>
+    <node id="Emily Teravest">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Emily Teravest</data>
+    </node>
+    <node id="Kurt Smith">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Kurt Smith</data>
+    </node>
+    <node id="Olga Botvinnik">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Olga Botvinnik</data>
+    </node>
+    <node id="Cedric St-Jean">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cedric St-Jean</data>
+    </node>
+    <node id="Bill Spotz">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Bill Spotz</data>
+    </node>
+    <node id="Simon Lund">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Simon Lund</data>
+    </node>
+    <node id="2015">
+      <data key="d0">year</data>
+      <data key="d3">12.0</data>
+      <data key="d2">2015</data>
+    </node>
+    <node id="2014">
+      <data key="d0">year</data>
+      <data key="d3">6.7</data>
+      <data key="d2">2014</data>
+    </node>
+    <node id="2011">
+      <data key="d0">year</data>
+      <data key="d3">5.6</data>
+      <data key="d2">2011</data>
+    </node>
+    <node id="2010">
+      <data key="d0">year</data>
+      <data key="d3">5.4</data>
+      <data key="d2">2010</data>
+    </node>
+    <node id="2013">
+      <data key="d0">year</data>
+      <data key="d3">7.2</data>
+      <data key="d2">2013</data>
+    </node>
+    <node id="2012">
+      <data key="d0">year</data>
+      <data key="d3">5.4</data>
+      <data key="d2">2012</data>
+    </node>
+    <node id="Karl Schleicher">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Karl Schleicher</data>
+    </node>
+    <node id="Adrian Townsend">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Adrian Townsend</data>
+    </node>
+    <node id="Derek Ruths">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Derek Ruths</data>
+    </node>
+    <node id="William Stein">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">William Stein</data>
+    </node>
+    <node id="Mike Mckerns">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Mike Mckerns</data>
+    </node>
+    <node id="Eric Neuman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eric Neuman</data>
+    </node>
+    <node id="David Sanders">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">David Sanders</data>
+    </node>
+    <node id="Rob Knight">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Rob Knight</data>
+    </node>
+    <node id="Rob Speer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Rob Speer</data>
+    </node>
+    <node id="Wes Mckinney">
+      <data key="d0">actor</data>
+      <data key="d1">7</data>
+      <data key="d2">Wes Mckinney</data>
+    </node>
+    <node id="Christian Gehl">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christian Gehl</data>
+    </node>
+    <node id="Trevor Bekolay">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Trevor Bekolay</data>
+    </node>
+    <node id="Emmanuel Quemener">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Emmanuel Quemener</data>
+    </node>
+    <node id="Enrico Vesperini">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Enrico Vesperini</data>
+    </node>
+    <node id="Stefano Taschini">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stefano Taschini</data>
+    </node>
+    <node id="Paolo Sterzai">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Paolo Sterzai</data>
+    </node>
+    <node id="Alejandro Weinstein">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alejandro Weinstein</data>
+    </node>
+    <node id="James A. Bednar">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">James A. Bednar</data>
+    </node>
+    <node id="Christfried Webers">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christfried Webers</data>
+    </node>
+    <node id="Jason Moore">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Jason Moore</data>
+    </node>
+    <node id="Travis Oliphant">
+      <data key="d0">actor</data>
+      <data key="d1">9</data>
+      <data key="d2">Travis Oliphant</data>
+    </node>
+    <node id="Viral Shah">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Viral Shah</data>
+    </node>
+    <node id="Jonathan Rocher">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jonathan Rocher</data>
+    </node>
+    <node id="Ben Zaitlen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ben Zaitlen</data>
+    </node>
+    <node id="Zhang Zhang">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Zhang Zhang</data>
+    </node>
+    <node id="Cyrus  Harrison">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cyrus  Harrison</data>
+    </node>
+    <node id="Stephen Mcquay">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Stephen Mcquay</data>
+    </node>
+    <node id="Dave Morrill">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Dave Morrill</data>
+    </node>
+    <node id="Perry Greenfield">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Perry Greenfield</data>
+    </node>
+    <node id="Andrew Reid">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Andrew Reid</data>
+    </node>
+    <node id="Kadambari Devarajan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kadambari Devarajan</data>
+    </node>
+    <node id="Olaf Lenz">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Olaf Lenz</data>
+    </node>
+    <node id="Kyle Kelley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kyle Kelley</data>
+    </node>
+    <node id="Kyle Mandli">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Kyle Mandli</data>
+    </node>
+    <node id="Warren Hack">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Warren Hack</data>
+    </node>
+    <node id="Johanna Hansen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Johanna Hansen</data>
+    </node>
+    <node id="Valentin Haenel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Valentin Haenel</data>
+    </node>
+    <node id="Roberto Colistete">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Roberto Colistete</data>
+    </node>
+    <node id="Josh Walawender">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Josh Walawender</data>
+    </node>
+    <node id="Gudni Rosenkjaer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gudni Rosenkjaer</data>
+    </node>
+    <node id="Allen Downey">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Allen Downey</data>
+    </node>
+    <node id="Kai Muehlbauer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kai Muehlbauer</data>
+    </node>
+    <node id="Ilan Schnell">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Ilan Schnell</data>
+    </node>
+    <node id="Lisandro Dalcin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Lisandro Dalcin</data>
+    </node>
+    <node id="Katy Huff">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Katy Huff</data>
+    </node>
+    <node id="Josef Perktold">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Josef Perktold</data>
+    </node>
+    <node id="Bryan Chastain">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bryan Chastain</data>
+    </node>
+    <node id="Bradley Froehle">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bradley Froehle</data>
+    </node>
+    <node id="Yu  Jiao">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yu  Jiao</data>
+    </node>
+    <node id="Andrew Cron">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Cron</data>
+    </node>
+    <node id="Jose Antonio Navas Molina">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jose Antonio Navas Molina</data>
+    </node>
+    <node id="William Schroeder">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">William Schroeder</data>
+    </node>
+    <node id="Zeljko  Ivezic">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Zeljko  Ivezic</data>
+    </node>
+    <node id="Sergio Rey">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Sergio Rey</data>
+    </node>
+    <node id="Min Ragan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Min Ragan</data>
+    </node>
+    <node id="John Hunter">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">John Hunter</data>
+    </node>
+    <node id="Jiao Lin">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Jiao Lin</data>
+    </node>
+    <node id="Matt Terry">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matt Terry</data>
+    </node>
+    <node id="Matthew Rocklin">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Matthew Rocklin</data>
+    </node>
+    <node id="Evan Bolyen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Evan Bolyen</data>
+    </node>
+    <node id="Brian Helba">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian Helba</data>
+    </node>
+    <node id="Jonathan Riehl">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jonathan Riehl</data>
+    </node>
+    <node id="Joseph Turian">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joseph Turian</data>
+    </node>
+    <node id="Ryan Krauss">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ryan Krauss</data>
+    </node>
+    <node id="Movie">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Movie</data>
+    </node>
+    <node id="Joshua Bloom">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joshua Bloom</data>
+    </node>
+    <node id="Michael Butterfield">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Butterfield</data>
+    </node>
+    <node id="Evan Patterson">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Evan Patterson</data>
+    </node>
+    <node id="Subir Mansukhani">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Subir Mansukhani</data>
+    </node>
+    <node id="Jonathan Jacky">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jonathan Jacky</data>
+    </node>
+    <node id="Tim Clem">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tim Clem</data>
+    </node>
+    <node id="Geoffrey Poore">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Geoffrey Poore</data>
+    </node>
+    <node id="Matthew Mccormick">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Matthew Mccormick</data>
+    </node>
+    <node id="Byron Galbraith">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Byron Galbraith</data>
+    </node>
+    <node id="Ben Christenson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ben Christenson</data>
+    </node>
+    <node id="Ian Henriksen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ian Henriksen</data>
+    </node>
+    <node id="Camille Bonneaud">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Camille Bonneaud</data>
+    </node>
+    <node id="Hal Ottesen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Hal Ottesen</data>
+    </node>
+    <node id="Matt Wescott">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matt Wescott</data>
+    </node>
+    <node id="Joe Harrington">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Joe Harrington</data>
+    </node>
+    <node id="Ondrej Certik">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Ondrej Certik</data>
+    </node>
+    <node id="Gael Varoquaux">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Gael Varoquaux</data>
+    </node>
+    <node id="Alan Raynaud">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alan Raynaud</data>
+    </node>
+    <node id="Craig Allen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Craig Allen</data>
+    </node>
+    <node id="Cory Quammen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cory Quammen</data>
+    </node>
+    <node id="Akand Islam">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Akand Islam</data>
+    </node>
+    <node id="Michael Droettboom">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Michael Droettboom</data>
+    </node>
+    <node id="Serge Guelton">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Serge Guelton</data>
+    </node>
+    <node id="Shoaib Kamil">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Shoaib Kamil</data>
+    </node>
+    <node id="Phil Roth">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Phil Roth</data>
+    </node>
+    <node id="Al Barrentine">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Al Barrentine</data>
+    </node>
+    <node id="Michka Popoff">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michka Popoff</data>
+    </node>
+    <node id="Richard Otis">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Richard Otis</data>
+    </node>
+    <node id="David Wardefarley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Wardefarley</data>
+    </node>
+    <node id="Nicolas Fauchereau">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nicolas Fauchereau</data>
+    </node>
+    <node id="Rob Zinkov">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Rob Zinkov</data>
+    </node>
+    <node id="Jaime Huerta-Cepas">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jaime Huerta-Cepas</data>
+    </node>
+    <node id="Idesbald Van Den Bosch">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Idesbald Van Den Bosch</data>
+    </node>
+    <node id="Andrew Reeve">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Reeve</data>
+    </node>
+    <node id="Nathan Collier">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nathan Collier</data>
+    </node>
+    <node id="Chris Fonnesbeck">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Chris Fonnesbeck</data>
+    </node>
+    <node id="James Bednar">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">James Bednar</data>
+    </node>
+    <node id="Razvan Pascanu">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Razvan Pascanu</data>
+    </node>
+    <node id="Frederic Bastien">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Frederic Bastien</data>
+    </node>
+    <node id="James Taylor">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">James Taylor</data>
+    </node>
+    <node id="Dominik Klaes">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Dominik Klaes</data>
+    </node>
+    <node id="Chris Kees">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Chris Kees</data>
+    </node>
+    <node id="Mike Trumpis">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mike Trumpis</data>
+    </node>
+    <node id="Elaine Angelino">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Elaine Angelino</data>
+    </node>
+    <node id="Stefan Van Der Walt">
+      <data key="d0">actor</data>
+      <data key="d1">7</data>
+      <data key="d2">Stefan Van Der Walt</data>
+    </node>
+    <node id="Pete Fein">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Pete Fein</data>
+    </node>
+    <node id="Solomon Negusse">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Solomon Negusse</data>
+    </node>
+    <node id="Bill Smith">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bill Smith</data>
+    </node>
+    <node id="Christopher J. Fonnesbeck And Abie Flaxman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christopher J. Fonnesbeck And Abie Flaxman</data>
+    </node>
+    <node id="Philip Elson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Philip Elson</data>
+    </node>
+    <node id="Christopher Wilmer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christopher Wilmer</data>
+    </node>
+    <node id="Erik Tollerud">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Erik Tollerud</data>
+    </node>
+    <node id="Scott Collis">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Scott Collis</data>
+    </node>
+    <node id="John Readey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">John Readey</data>
+    </node>
+    <node id="Cesar Beneti">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cesar Beneti</data>
+    </node>
+    <node id="Dorota Jarecka">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Dorota Jarecka</data>
+    </node>
+    <node id="Thomas Caswell">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Thomas Caswell</data>
+    </node>
+    <node id="John Chase">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">John Chase</data>
+    </node>
+    <node id="Phillip Cloud">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Phillip Cloud</data>
+    </node>
+    <node id="Nathan Goldbaum">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nathan Goldbaum</data>
+    </node>
+    <node id="Thomas Robitaille">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Thomas Robitaille</data>
+    </node>
+    <node id="Ryan May">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ryan May</data>
+    </node>
+    <node id="David I.Ketcheson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David I.Ketcheson</data>
+    </node>
+    <node id="Daniel Wheeler">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Daniel Wheeler</data>
+    </node>
+    <node id="David Ketcheson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Ketcheson</data>
+    </node>
+    <node id="Paul Ivanov">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Paul Ivanov</data>
+    </node>
+    <node id="Michael Henderson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Henderson</data>
+    </node>
+    <node id="Wei Kang">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Wei Kang</data>
+    </node>
+    <node id="Randy Paffenroth">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Randy Paffenroth</data>
+    </node>
+    <node id="John Stowers">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">John Stowers</data>
+    </node>
+    <node id="Amelia Mcbee Henriksen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Amelia Mcbee Henriksen</data>
+    </node>
+    <node id="Joseph Sawdey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joseph Sawdey</data>
+    </node>
+    <node id="James Crist">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">James Crist</data>
+    </node>
+    <node id="Nick Bray">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nick Bray</data>
+    </node>
+    <node id="Olivier Breuleux">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Olivier Breuleux</data>
+    </node>
+    <node id="Randy Sargent">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Randy Sargent</data>
+    </node>
+    <node id="Juan Nunez-Iglesias">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Juan Nunez-Iglesias</data>
+    </node>
+    <node id="Bryan Catanzaro">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bryan Catanzaro</data>
+    </node>
+    <node id="Peter Wang">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Peter Wang</data>
+    </node>
+    <node id="Olivier Grisel">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Olivier Grisel</data>
+    </node>
+    <node id="Andrew  Connolly">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew  Connolly</data>
+    </node>
+    <node id="Brian Mcfee">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian Mcfee</data>
+    </node>
+    <node id="Jeffrey Spies">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jeffrey Spies</data>
+    </node>
+    <node id="Nick Guy">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nick Guy</data>
+    </node>
+    <node id="David Cournapeau">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">David Cournapeau</data>
+    </node>
+    <node id="Christopher Beaumont">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Christopher Beaumont</data>
+    </node>
+    <node id="Jonathan Guyer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jonathan Guyer</data>
+    </node>
+    <node id="Perry Greenfield, Erik Tollerud">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Perry Greenfield, Erik Tollerud</data>
+    </node>
+    <node id="Alexander Zien">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alexander Zien</data>
+    </node>
+    <node id="Ariel Rokem">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ariel Rokem</data>
+    </node>
+    <node id="Marcel Caraciolo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Marcel Caraciolo</data>
+    </node>
+    <node id="Enthought">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Enthought</data>
+    </node>
+    <node id="Rodolfo Aramayo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Rodolfo Aramayo</data>
+    </node>
+    <node id="Aron Ahmadia">
+      <data key="d0">actor</data>
+      <data key="d1">5</data>
+      <data key="d2">Aron Ahmadia</data>
+    </node>
+    <node id="Mark Benedict">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mark Benedict</data>
+    </node>
+    <node id="Avila, Damian">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Avila, Damian</data>
+    </node>
+    <node id="James Bergstra">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">James Bergstra</data>
+    </node>
+    <node id="Jared Flatow">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jared Flatow</data>
+    </node>
+    <node id="Richard Signell">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Richard Signell</data>
+    </node>
+    <node id="Ankur Ankan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ankur Ankan</data>
+    </node>
+    <node id="Henry Ward">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Henry Ward</data>
+    </node>
+    <node id="Skipper Seabold">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Skipper Seabold</data>
+    </node>
+    <node id="Andrzej Kosinski">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrzej Kosinski</data>
+    </node>
+    <node id="Jennifer Klay">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jennifer Klay</data>
+    </node>
+    <node id="Aaron Staley">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Aaron Staley</data>
+    </node>
+    <node id="Ken Elkabany">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Ken Elkabany</data>
+    </node>
+    <node id="Eric Dobbs">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eric Dobbs</data>
+    </node>
+    <node id="Alexis Perez">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alexis Perez</data>
+    </node>
+    <node id="Luke Campagnola">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Luke Campagnola</data>
+    </node>
+    <node id="Florian Rathgeber">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Florian Rathgeber</data>
+    </node>
+    <node id="Diane Trout">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Diane Trout</data>
+    </node>
+    <node id="Josef Koller">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Josef Koller</data>
+    </node>
+    <node id="Dag Sverre Seljebotn">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Dag Sverre Seljebotn</data>
+    </node>
+    <node id="Maik Hiestermann">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Maik Hiestermann</data>
+    </node>
+    <node id="Aric Hagberg">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Aric Hagberg</data>
+    </node>
+    <node id="Eric Lofgren">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eric Lofgren</data>
+    </node>
+    <node id="Shaun Walbridge">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Shaun Walbridge</data>
+    </node>
+    <node id="Eric Floehr">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eric Floehr</data>
+    </node>
+    <node id="Joseph Koning">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joseph Koning</data>
+    </node>
+    <node id="Terence Yeoh">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Terence Yeoh</data>
+    </node>
+    <node id="Matthias Bussonnier">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Matthias Bussonnier</data>
+    </node>
+    <node id="Kastner, Kyle">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kastner, Kyle</data>
+    </node>
+    <node id="Matt Davis">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matt Davis</data>
+    </node>
+    <node id="Karl Young">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Karl Young</data>
+    </node>
+    <node id="Ivan Krstić">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ivan Krstić</data>
+    </node>
+    <node id="Benjamin Eitzen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Benjamin Eitzen</data>
+    </node>
+    <node id="The Method Behind The Madness">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">The Method Behind The Madness</data>
+    </node>
+    <node id="Juan Nuneziglesias">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Juan Nuneziglesias</data>
+    </node>
+    <node id="Marcin Cieslik">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Marcin Cieslik</data>
+    </node>
+    <node id="Yoshiki Vázquezbaeza">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yoshiki Vázquezbaeza</data>
+    </node>
+    <node id="Graham Markall">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Graham Markall</data>
+    </node>
+    <node id="Toby St Clere Smithe">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Toby St Clere Smithe</data>
+    </node>
+    <node id="Eliza Chang, Juan Huerta">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Eliza Chang, Juan Huerta</data>
+    </node>
+    <node id="Guido Van Rossum">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Guido Van Rossum</data>
+    </node>
+    <node id="Alex Martelli">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alex Martelli</data>
+    </node>
+    <node id="Benjamin Koziol">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Benjamin Koziol</data>
+    </node>
+    <node id="Sebastian Sepulveda">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sebastian Sepulveda</data>
+    </node>
+    <node id="Andy Terrel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andy Terrel</data>
+    </node>
+    <node id="Jessica Hamrick">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jessica Hamrick</data>
+    </node>
+    <node id="En Zyme">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">En Zyme</data>
+    </node>
+    <node id="Joshua Warner">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joshua Warner</data>
+    </node>
+    <node id="Andrew Davison">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Davison</data>
+    </node>
+    <node id="Erik Bray">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Erik Bray</data>
+    </node>
+    <node id="Min Ragan-Kelley">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Min Ragan-Kelley</data>
+    </node>
+    <node id="Mark Wiebe">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Mark Wiebe</data>
+    </node>
+    <node id="Thomas Kluyver">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Thomas Kluyver</data>
+    </node>
+    <node id="David Pugh">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Pugh</data>
+    </node>
+    <node id="Kevin Gullikson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kevin Gullikson</data>
+    </node>
+    <node id="Dharhas Pothina">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Dharhas Pothina</data>
+    </node>
+    <node id="Joshua Warne">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Joshua Warne</data>
+    </node>
+    <node id="Tyler Mcewen">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tyler Mcewen</data>
+    </node>
+    <node id="Aakash Prasad">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Aakash Prasad</data>
+    </node>
+    <node id="Gaël Varoquaux">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gaël Varoquaux</data>
+    </node>
+    <node id="Houman Owhadi">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Houman Owhadi</data>
+    </node>
+    <node id="New Media: A Data Driven Study Of Congressional Public Relations">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">New Media: A Data Driven Study Of Congressional Public Relations</data>
+    </node>
+    <node id="Kester Tong">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kester Tong</data>
+    </node>
+    <node id="Michael Pacer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Pacer</data>
+    </node>
+    <node id="Adam Robbinspianka">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Adam Robbinspianka</data>
+    </node>
+    <node id="Kent Moffat">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kent Moffat</data>
+    </node>
+    <node id="Douglas Starnes">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Douglas Starnes</data>
+    </node>
+    <node id="Iqbal Mohomed">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Iqbal Mohomed</data>
+    </node>
+    <node id="Dan Starr">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Dan Starr</data>
+    </node>
+    <node id="David Li">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Li</data>
+    </node>
+    <node id="Matthew Turk">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Matthew Turk</data>
+    </node>
+    <node id="Mateusz Paprocki And Aaron Meurer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Mateusz Paprocki And Aaron Meurer</data>
+    </node>
+    <node id="Harinarayan Krishnan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Harinarayan Krishnan</data>
+    </node>
+    <node id="Yoshiki Vazquez-Baeza">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yoshiki Vazquez-Baeza</data>
+    </node>
+    <node id="Brad King">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brad King</data>
+    </node>
+    <node id="Josh Hemann">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Josh Hemann</data>
+    </node>
+    <node id="Todd Rosenquist">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Todd Rosenquist</data>
+    </node>
+    <node id="Cyrus Harrison">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Cyrus Harrison</data>
+    </node>
+    <node id="Matthew Perry">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matthew Perry</data>
+    </node>
+    <node id="Chris Harris">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chris Harris</data>
+    </node>
+    <node id="Justin Riley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Justin Riley</data>
+    </node>
+    <node id="Matt Harrison">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Matt Harrison</data>
+    </node>
+    <node id="David Masad">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Masad</data>
+    </node>
+    <node id="Andreas Frimann">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andreas Frimann</data>
+    </node>
+    <node id="Filipe Fernandes">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Filipe Fernandes</data>
+    </node>
+    <node id="Steven Silvester">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Steven Silvester</data>
+    </node>
+    <node id="Pierrick Brunet">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Pierrick Brunet</data>
+    </node>
+    <node id="Gene Cooperman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gene Cooperman</data>
+    </node>
+    <node id="Abinash Panda">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Abinash Panda</data>
+    </node>
+    <node id="Kyle Kastner">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Kyle Kastner</data>
+    </node>
+    <node id="Pascal Lamblin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Pascal Lamblin</data>
+    </node>
+    <node id="Chris Colbert">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Chris Colbert</data>
+    </node>
+    <node id="Fernando Perez">
+      <data key="d0">actor</data>
+      <data key="d1">10</data>
+      <data key="d2">Fernando Perez</data>
+    </node>
+    <node id="Steven Morley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Steven Morley</data>
+    </node>
+    <node id="Joe Kington">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Joe Kington</data>
+    </node>
+    <node id="Scott Determan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Scott Determan</data>
+    </node>
+    <node id="Brian Smith">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Brian Smith</data>
+    </node>
+    <node id="Robert Grant">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Robert Grant</data>
+    </node>
+    <node id="Saravanan Ramalingam">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Saravanan Ramalingam</data>
+    </node>
+    <node id="Jim Hu">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jim Hu</data>
+    </node>
+    <node id="Anderson Gama">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Anderson Gama</data>
+    </node>
+    <node id="Clayton Davis">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Clayton Davis</data>
+    </node>
+    <node id="William Scullin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">William Scullin</data>
+    </node>
+    <node id="Chris Mueller">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Chris Mueller</data>
+    </node>
+    <node id="Nikunj Patel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nikunj Patel</data>
+    </node>
+    <node id="Jackie Kazil">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jackie Kazil</data>
+    </node>
+    <node id="Burcin Erocal">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Burcin Erocal</data>
+    </node>
+    <node id="David Cox">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">David Cox</data>
+    </node>
+    <node id="Charles Doutriaux">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Charles Doutriaux</data>
+    </node>
+    <node id="Jean-Luc Stevens">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jean-Luc Stevens</data>
+    </node>
+    <node id="Vojtech Franc">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Vojtech Franc</data>
+    </node>
+    <node id="Bryan Bishop">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Bryan Bishop</data>
+    </node>
+    <node id="Leif Johnson">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Leif Johnson</data>
+    </node>
+    <node id="Richard Shaw">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Richard Shaw</data>
+    </node>
+    <node id="Tom Aldcroft">
+      <data key="d0">actor</data>
+      <data key="d1">3</data>
+      <data key="d2">Tom Aldcroft</data>
+    </node>
+    <node id="Ricardo Caspirro">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ricardo Caspirro</data>
+    </node>
+    <node id="Fabio De Bona">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Fabio De Bona</data>
+    </node>
+    <node id="Gregory Caporaso">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Gregory Caporaso</data>
+    </node>
+    <node id="Yannick Congo">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yannick Congo</data>
+    </node>
+    <node id="David Cournapea">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">David Cournapea</data>
+    </node>
+    <node id="Daniel Mcdonald">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Daniel Mcdonald</data>
+    </node>
+    <node id="Andrew Collette">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Andrew Collette</data>
+    </node>
+    <node id="Titus Brown">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Titus Brown</data>
+    </node>
+    <node id="Nicola Creati">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Nicola Creati</data>
+    </node>
+    <node id="Minesh Amin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Minesh Amin</data>
+    </node>
+    <node id="Mateusz Paprocki">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Mateusz Paprocki</data>
+    </node>
+    <node id="Jacob Frelinger">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jacob Frelinger</data>
+    </node>
+    <node id="Speaker: Allen Downey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Speaker: Allen Downey</data>
+    </node>
+    <node id="Yahya Nazer">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Yahya Nazer</data>
+    </node>
+    <node id="Bill Hoffman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Bill Hoffman</data>
+    </node>
+    <node id="Chuck Thier">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Chuck Thier</data>
+    </node>
+    <node id="Jason Laura, Serge Rey">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jason Laura, Serge Rey</data>
+    </node>
+    <node id="Michael Milligan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michael Milligan</data>
+    </node>
+    <node id="Scott Giangrande">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Scott Giangrande</data>
+    </node>
+    <node id="Martin Beroiz">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Martin Beroiz</data>
+    </node>
+    <node id="Shreyas Cholia">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Shreyas Cholia</data>
+    </node>
+    <node id="Sergey Fomel">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Sergey Fomel</data>
+    </node>
+    <node id="Michelle Borkin">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Michelle Borkin</data>
+    </node>
+    <node id="Aashish Chaudhary">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Aashish Chaudhary</data>
+    </node>
+    <node id="Annette Greiner">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Annette Greiner</data>
+    </node>
+    <node id="Samuel Skillman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Samuel Skillman</data>
+    </node>
+    <node id="Stephen Chan">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stephen Chan</data>
+    </node>
+    <node id="Martin Ling">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Martin Ling</data>
+    </node>
+    <node id="Mellissa Cross">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Mellissa Cross</data>
+    </node>
+    <node id="Prabhu Ramachandran">
+      <data key="d0">actor</data>
+      <data key="d1">10</data>
+      <data key="d2">Prabhu Ramachandran</data>
+    </node>
+    <node id="Lindsey Heagy">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Lindsey Heagy</data>
+    </node>
+    <node id="Damian Avila">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Damian Avila</data>
+    </node>
+    <node id="Leonardo Uieda">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Leonardo Uieda</data>
+    </node>
+    <node id="Ken Park">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Ken Park</data>
+    </node>
+    <node id="Alys Goodman">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Alys Goodman</data>
+    </node>
+    <node id="Tripp Lilley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Tripp Lilley</data>
+    </node>
+    <node id="Stefan Karpinski">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stefan Karpinski</data>
+    </node>
+    <node id="Michael Mckerns">
+      <data key="d0">actor</data>
+      <data key="d1">4</data>
+      <data key="d2">Michael Mckerns</data>
+    </node>
+    <node id="Jake Vanderplas">
+      <data key="d0">actor</data>
+      <data key="d1">6</data>
+      <data key="d2">Jake Vanderplas</data>
+    </node>
+    <node id="Adam Robbins-Pianka">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Adam Robbins-Pianka</data>
+    </node>
+    <node id="Chris Lee">
+      <data key="d0">actor</data>
+      <data key="d1">2</data>
+      <data key="d2">Chris Lee</data>
+    </node>
+    <node id="Adam Richards">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Adam Richards</data>
+    </node>
+    <node id="Ville Tuulos">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Ville Tuulos</data>
+    </node>
+    <node id="Jordi Torrents">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jordi Torrents</data>
+    </node>
+    <node id="Anthony Scopatz">
+      <data key="d0">actor</data>
+      <data key="d1">7</data>
+      <data key="d2">Anthony Scopatz</data>
+    </node>
+    <node id="Scott Draves">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Scott Draves</data>
+    </node>
+    <node id="Jan Meinke">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jan Meinke</data>
+    </node>
+    <node id="Scott Livingston">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Scott Livingston</data>
+    </node>
+    <node id="2006">
+      <data key="d0">year</data>
+      <data key="d3">4.1</data>
+      <data key="d2">2006</data>
+    </node>
+    <node id="2007">
+      <data key="d0">year</data>
+      <data key="d3">3.6</data>
+      <data key="d2">2007</data>
+    </node>
+    <node id="Jed Brown">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Jed Brown</data>
+    </node>
+    <node id="2008">
+      <data key="d0">year</data>
+      <data key="d3">4.0</data>
+      <data key="d2">2008</data>
+    </node>
+    <node id="2009">
+      <data key="d0">year</data>
+      <data key="d3">4.3</data>
+      <data key="d2">2009</data>
+    </node>
+    <node id="Kelley">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Kelley</data>
+    </node>
+    <node id="Stephen Nesbitt">
+      <data key="d0">actor</data>
+      <data key="d1">1</data>
+      <data key="d2">Stephen Nesbitt</data>
+    </node>
+    <edge source="Mark Dewing" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Richard Riedel" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kyle Wilcox" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matthew Craig" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ramalingam Saravanan" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jones" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robert Johansson" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Greg Wilson" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="What'S New, Where We Are Headed" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Wilson" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="John Zuhone" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Michele Vallisneri" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Nadia Dencheva" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonathan Helmus" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonathan Helmus" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonas Behr" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Gunnar Raetsch" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kapil Arya" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Piotr A. Zolnierczuk" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bharat Upadrasta" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ana Nelson" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ana Nelson" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ana Nelson" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Margo Seltzer" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jeannie Irwin" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Yoshua Bengio" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Torsten Bittne" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Armando Sole" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kristopher Overholt" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stephen Hoover" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Nicholas Kridler" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jorge Cañardo Alastuey" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Piotr Zolnierczuk" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Shams Imam" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matthew Henderson" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Christopher Fonnesbeck" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sean Gillies" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kristen Thyng" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Michael J Pan" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mehdi Amini" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robert Bradshaw" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Cope" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jai Ram Rideout" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jai Ram Rideout" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jeff Daily" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Pat Marion" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Roberto Vidmar" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Douglas Gregor" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sargis Dallakyan" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Cameron Hummels" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alex Decaria" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Haitham Elmarakeby" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andreas Mueller" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bruno Melo" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Byron Ruth" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Helge Reikeras" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alexey Fedosov" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian  Nosek" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chandrashekhar Kaushik" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Straw" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Straw" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jacob Hummel" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Wiggins" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Gregory Benson" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benjamin Root" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benjamin Root" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benjamin Root" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robin Kraft" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robert Lupton" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonathan Frederic" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonathan Frederic" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stanley Seibert" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Serge Rey" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Forrest Sheng Bao" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Raffaele Montuoro" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robert Kern" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Robert Kern" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mark Wickert" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jeff Bezanson" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jeff Bezanson" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kelsey Jordahl" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kelsey Jordahl" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kelsey Jordahl" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Adrien Merlini" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Keith Jackson" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Howard Bushouse" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Granger" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Granger" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Granger" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Granger" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Granger" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Amal Alghamdi" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Guillaume Desjardins" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Corran Webster" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Corran Webster" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Rahul Garg" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Olin College" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matt Hall" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matt Hall" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Philipp Rudiger" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jiwon Seo" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jim Deleo" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Vanderlei Oliveira" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Yan" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Christine Doig-Cardet" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Minwoo Lee" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matthew Knepley" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Wilson" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alexander Binder" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Michael Aye" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Nicolas Pinto" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Nicolas Pinto" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tareq Malas" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Travis Vaught" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="David Brown" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Aaron Meurer" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Aaron Meurer" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tony Yu" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="John Gunnels" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Wim Lavrijsen" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ross Mitchell" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Friedley" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sebastian Henschel" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stephan Hoyer" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Christian Widmer" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Roy Weckiewicz" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Richard Hattersley" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bryan Van De Ven" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bryan Van De Ven" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian D'Urso" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Damian Eads" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Damian Eads" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Carlos Cordoba" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Carlos Cordoba" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sam Skillman" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mehmet Kunt" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zachary Trautt" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tiago Antao" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Marianne Corvellec" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dav Clark" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Henry Wheeler" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jack Minardi" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Daniel Welling" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dan Yamins" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dan Yamins" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Christopher Mueller" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alex Clemesha" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Jeschke" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="David Beazley" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Rodney Harris" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sebastian Benthall" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Sören Sonnenburg" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Drake" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Refsdal" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Brian Refsdal" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Carson Farmer" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Carson Farmer" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Patrick Cole" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Pavel Solin" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Zubin Dowlaty" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Glen Mabey" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Geraldine Van Der Auwera" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Krishna Sridhar" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mattheus Ueckermann" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Manuel Quezada" target="2011">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tyler Erickson" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jarrod Millman" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jarrod Millman" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jarrod Millman" target="2010">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Michael Aivazis" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Emily Teravest" target="2014">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kurt Smith" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kurt Smith" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kurt Smith" target="2013">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kurt Smith" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Olga Botvinnik" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Cedric St-Jean" target="2015">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bill Spotz" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bill Spotz" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Simon Lund" target="2012">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Chris Fonnesbeck">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="New Media: A Data Driven Study Of Congressional Public Relations">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Kester Tong">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Michael Pacer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Stefan Van Der Walt">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Philip Elson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Christopher Wilmer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Randy Paffenroth">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Scott Collis">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Matthias Bussonnier">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Yoshiki Vazquez-Baeza">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Anderson Gama">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Cesar Beneti">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Thomas Caswell">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Phillip Cloud">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Wes Mckinney">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Matt Harrison">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="David Masad">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Filipe Fernandes">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Paolo Sterzai">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="James A. Bednar">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jason Moore">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Andrew Collette">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Matthew Mccormick">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Abinash Panda">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Kyle Kastner">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Wei Kang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Amelia Mcbee Henriksen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="James Crist">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Joe Kington">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="John Readey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Brian Smith">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Perry Greenfield">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Robert Grant">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Brian Mcfee">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jackie Kazil">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Johanna Hansen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Roberto Colistete">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Josh Walawender">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Gudni Rosenkjaer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Nick Guy">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jean-Luc Stevens">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Allen Downey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Kai Muehlbauer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Steven Silvester">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Katy Huff">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Bryan Chastain">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Richard Shaw">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Yannick Congo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Nicola Creati">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Richard Signell">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Sergio Rey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Ankur Ankan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Richard Otis">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Bill Hoffman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Michael Milligan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Scott Giangrande">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Evan Bolyen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Brad King">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Brian Helba">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Erik Tollerud">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Thomas Kluyver">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Maik Hiestermann">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Subir Mansukhani">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Mellissa Cross">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="En Zyme">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Lindsey Heagy">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Ian Henriksen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Damian Avila">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Mike Mckerns">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Kyle Kelley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jonathan Rocher">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Cory Quammen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Michael Mckerns">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Michael Droettboom">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Luke Campagnola">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Phil Roth">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jake Vanderplas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Michka Popoff">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Adam Robbins-Pianka">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Speaker: Allen Downey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Sebastian Sepulveda">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jessica Hamrick">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jordi Torrents">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Erik Bray">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Min Ragan-Kelley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Mark Wiebe">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Scott Draves">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Stephen Nesbitt">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Kevin Gullikson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Jaime Huerta-Cepas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2015" target="Joshua Warne">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Juan Nuneziglesias">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Chris Fonnesbeck">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Martin Beroiz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Jose Antonio Navas Molina">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Dag Sverre Seljebotn">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Jason Moore">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Aashish Chaudhary">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Dominik Klaes">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Stephen Chan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Eric Lofgren">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Shaun Walbridge">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Chris Kees">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Benjamin Koziol">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Aron Ahmadia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Gregory Caporaso">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Nathan Goldbaum">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Karl Schleicher">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Adam Robbinspianka">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Anthony Scopatz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Matt Wescott">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Daniel Mcdonald">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Joe Kington">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Yoshiki Vázquezbaeza">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Tom Aldcroft">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Richard Signell">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Ilan Schnell">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Matthew Turk">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Michael Mckerns">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Michael Droettboom">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Toby St Clere Smithe">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Randy Sargent">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Chris Harris">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Jake Vanderplas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Juan Nunez-Iglesias">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="John Chase">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Michael Butterfield">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Matthew Perry">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Andy Terrel">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="David Wardefarley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Nicolas Fauchereau">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Dorota Jarecka">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Jason Laura, Serge Rey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Matthew Rocklin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Ondrej Certik">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="David Sanders">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Jennifer Klay">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Rob Knight">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Perry Greenfield, Erik Tollerud">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="David Pugh">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Charles Doutriaux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Eliza Chang, Juan Huerta">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Alexis Perez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Josh Walawender">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Thomas Robitaille">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="Fernando Perez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2014" target="David I.Ketcheson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Shreyas Cholia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Martin Ling">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="David Ketcheson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Nathan Collier">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Travis Oliphant">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Annette Greiner">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Evan Patterson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Andrew Cron">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Lisandro Dalcin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Kyle Mandli">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Gael Varoquaux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Marcel Caraciolo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Josef Perktold">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Min Ragan-Kelley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Joseph Koning">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Jonathan Jacky">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Ricardo Caspirro">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Ben Christenson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Aron Ahmadia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Solomon Negusse">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Michael Mckerns">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Christopher J. Fonnesbeck And Abie Flaxman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Douglas Starnes">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Nick Bray">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Ken Park">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Stephen Mcquay">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Minesh Amin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Ken Elkabany">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Scott Determan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Mateusz Paprocki">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Chuck Thier">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Jonathan Rocher">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Min Ragan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Mateusz Paprocki And Aaron Meurer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Shoaib Kamil">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Jed Brown">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Yahya Nazer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Henry Ward">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Skipper Seabold">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Matt Terry">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Peter Wang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="William Scullin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Anthony Scopatz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Pete Fein">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Thomas Kluyver">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Aaron Staley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Wes Mckinney">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Dharhas Pothina">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Yu  Jiao">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Josh Hemann">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Kelley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Fernando Perez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2011" target="Tyler Mcewen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Andrew Reeve">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Shreyas Cholia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Sergey Fomel">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Vojtech Franc">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Joseph Turian">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Razvan Pascanu">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Frederic Bastien">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Movie">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Josef Koller">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Travis Oliphant">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Bryan Bishop">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Alexander Zien">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Skipper Seabold">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Elaine Angelino">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Eric Floehr">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Min Ragan-Kelley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Prabhu Ramachandran">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Pascal Lamblin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Chris Colbert">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Mark Benedict">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Steven Morley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Perry Greenfield">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Olivier Breuleux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Ken Elkabany">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="James Bergstra">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Craig Allen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Ken Park">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Jiao Lin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Kadambari Devarajan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Tom Aldcroft">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Josh Hemann">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Jim Hu">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Fabio De Bona">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Aaron Staley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Rodolfo Aramayo">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Ville Tuulos">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Warren Hack">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Joseph Sawdey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Rob Speer">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Wes Mckinney">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Jan Meinke">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Christian Gehl">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Michael Henderson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Justin Riley">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Jared Flatow">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2010" target="Anthony Scopatz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Houman Owhadi">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Damian Avila">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Stefan Van Der Walt">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Christopher Beaumont">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="David Li">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Matthew Rocklin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Harinarayan Krishnan">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Todd Rosenquist">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Eric Neuman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Gene Cooperman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Trevor Bekolay">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Emmanuel Quemener">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Thomas Robitaille">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Alan Raynaud">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Daniel Wheeler">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Ben Zaitlen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Paul Ivanov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Zhang Zhang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Stefan Karpinski">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="John Stowers">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Fernando Perez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Cyrus  Harrison">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Andrew Reid">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Saravanan Ramalingam">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Clayton Davis">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Pierrick Brunet">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Olivier Grisel">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Kent Moffat">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Andrew  Connolly">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Valentin Haenel">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Burcin Erocal">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="David Cox">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Jeffrey Spies">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Leif Johnson">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Katy Huff">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Tom Aldcroft">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Bradley Froehle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Aron Ahmadia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="David Cournapea">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Avila, Damian">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="James Bergstra">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="William Schroeder">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Mateusz Paprocki">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Andrzej Kosinski">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Florian Rathgeber">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Zeljko  Ivezic">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Michelle Borkin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Samuel Skillman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Geoffrey Poore">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Gael Varoquaux">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Kastner, Kyle">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Matt Davis">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Camille Bonneaud">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Hal Ottesen">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="The Method Behind The Madness">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Leonardo Uieda">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Ondrej Certik">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Graham Markall">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Alys Goodman">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Michael Mckerns">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Michael Droettboom">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Serge Guelton">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Jake Vanderplas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Adam Richards">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Rob Zinkov">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Joshua Warner">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Andrew Davison">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Anthony Scopatz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2013" target="Mark Wiebe">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Andreas Frimann">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Aakash Prasad">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="James Bednar">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Jonathan Riehl">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Joshua Bloom">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Travis Oliphant">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Bryan Catanzaro">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Alejandro Weinstein">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Tim Clem">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Geoffrey Poore">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Byron Galbraith">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Aron Ahmadia">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Chris Colbert">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Fernando Perez">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Iqbal Mohomed">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Stephen Mcquay">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Sergio Rey">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Akand Islam">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Derek Ruths">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Jacob Frelinger">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="John Hunter">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Jiao Lin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Jake Vanderplas">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Al Barrentine">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Andrew Reid">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Skipper Seabold">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Peter Wang">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Cyrus Harrison">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Matthew Rocklin">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Anthony Scopatz">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Juan Nuneziglesias">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Wes Mckinney">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Scott Livingston">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="2012" target="Ryan May">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Adrian Townsend" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="William Stein" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="William Stein" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Enrico Vesperini" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stefano Taschini" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Christfried Webers" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Travis Oliphant" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Travis Oliphant" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Travis Oliphant" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Viral Shah" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dave Morrill" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Perry Greenfield" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Perry Greenfield" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Andrew Reid" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Olaf Lenz" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Kyle Mandli" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ilan Schnell" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="John Hunter" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="John Hunter" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ryan Krauss" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Evan Patterson" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Joe Harrington" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Joe Harrington" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ondrej Certik" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ondrej Certik" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Michael Droettboom" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Idesbald Van Den Bosch" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="James Taylor" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Mike Trumpis" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stefan Van Der Walt" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Stefan Van Der Walt" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Bill Smith" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Peter Wang" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Peter Wang" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Peter Wang" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="David Cournapeau" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="David Cournapeau" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Jonathan Guyer" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ariel Rokem" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Enthought" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Eric Dobbs" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Diane Trout" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dag Sverre Seljebotn" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Aric Hagberg" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Terence Yeoh" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Karl Young" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Ivan Krstić" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Benjamin Eitzen" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Marcin Cieslik" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Guido Van Rossum" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Alex Martelli" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Gaël Varoquaux" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Dan Starr" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Matthew Turk" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Fernando Perez" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Fernando Perez" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Mueller" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Mueller" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Nikunj Patel" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Titus Brown" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Titus Brown" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Prabhu Ramachandran" target="2008">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Prabhu Ramachandran" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Prabhu Ramachandran" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Prabhu Ramachandran" target="2007">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Tripp Lilley" target="2006">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Lee" target="2009">
+      <data key="d4">1</data>
+    </edge>
+    <edge source="Chris Lee" target="2007">
+      <data key="d4">1</data>
+    </edge>
+  </graph>
+</graphml>

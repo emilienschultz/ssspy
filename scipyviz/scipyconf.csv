@@ -1,0 +1,493 @@
+2006;keynote;guido van rossum
+2006;understanding numpy: how to use dtype objects;travis oliphant
+2006;extending numpy: a comparison of swig, f2py, weave, pyrex, and ctypes;travis oliphant
+2006;python for modern scientific algorithm development -- (pdf slides);fernando perez
+2006;building a distributed component framework;michael aivazis
+2006;the enthought tool suite for scientific applications (pdf slides);eric jones
+2006;synthetic programming with python;chris mueller
+2006;3d visualization with tvtk and mayavi2 -- (pdf slides);prabhu ramachandran
+2006;realtime computing with python;andrew straw
+2006;sage:software for algebra and geometry experimentation notes;william stein
+2006;mathematica-like plotting in sage notes;alex clemesha
+2006;biohub presentation;diane trout
+2006;software carpentry;greg wilson
+2006;autoligand for autodock;rodney harris
+2006;gpupy: using gpus to accelerate numpy;benjamin eitzen
+2006;boost graph library;douglas gregor
+2006;fast multipole algorithm;idesbald van den bosch
+2006;oof -- object-oriented finite elements at nist;andrew reid
+2006;parallel pde solvers in python;bill spotz
+2006;python imaging tools for reconstructing magnetic resonance images;mike trumpis
+2006;pyroot;wim lavrijsen
+2006;python interface to qscimpl presentation;eric dobbs
+2006;python web and grid service tools;keith jackson
+2006;genesis sciflo: scientific knowledge creation on the grid using a semantically-enabled dataflow execution environment;brian wilson
+2006;seeing through the mist: richer reconfigurable interactive systems;tripp lilley
+2006;tutorial numpy;travis oliphant
+2006;tutorial ipython;fernando perez
+2006;tutorial matplolib;john hunter
+2006;tutorial scientific apps;eric jones
+2006;tutorial scientific apps;dave morrill
+2006;tutorial data exploration wuth chaco;peter wang
+2006;tutorial mayavi;prabhu ramachandran
+2007;tutorial scientific computing using ipython/numpy/scipy/matplotlib/etc;fernando perez
+2007;tutorial scientific computing using ipython/numpy/scipy/matplotlib/etc;brian granger
+2007;idiomatic python;titus brown
+2007;tutorial wrapping code with python;bill spotz
+2007;tutorial wrapping code with python;eric jones
+2007;tutorial scipy for signal processing and image processing;travis oliphant
+2007;keynote;ivan krstić
+2007;python buffer interface download slides;travis oliphant
+2007;corepy: using python on ibm's cell/b.e.;chris mueller
+2007;python and the mock lisa data challenges;michele vallisneri
+2007;interactive plotting for fun and profit;peter wang
+2007;pygr: the python graph database framework for bioinformatics;chris lee
+2007;beowulf analysis symbolic interface-basin: a multi-user environment for parallel data analysis and visualization;enrico vesperini
+2007;evolving wavelets using scipy: analysis of controlled plasma transients;terence yeoh
+2007;the cartwheel project: python tools for regulatory genomics;titus brown
+2007;the galaxy platform for accessible and reproducible scientific research;james taylor
+2007;river: a foundation for the rapid development of reliable parallel programming systems;gregory benson
+2007;river: a foundation for the rapid development of reliable parallel programming systems;alexey fedosov
+2007;elefant (efficient learning, large-scale, inference, and optimization toolkit);christfried webers
+2007;using python for electronic structure calculations, nonlinear solvers, fem and symbolic manipulation;ondrej certik
+2007;the block canvas and contexts: a rapid approach to developing scientific workflows;eric jones
+2007;building a protein name thesaurus;bill smith
+2007;volume rendering with python molecular viewer;sargis dallakyan
+2007;bof testing methods, tools, workflow, etc.;fernando perez
+2007;bof future plans for python in astronomy;perry greenfield
+2007;bof we'll discuss biopython, corebio, and whatever is next.;titus brown
+2007;bof we'll discuss current state of interactive 3d visualization and where to go next;prabhu ramachandran
+2008;tutorial astronomical data analysis;perry greenfield
+2008;tutorial bulding extensions with numscons;david cournapeau
+2008;tutorial writing optimized extensions with cython;robert bradshaw
+2008;tutorial beyond pure python: sage;william stein
+2008;tutorial advanced numpy;stefan van der walt
+2008;tutorial scientific gui applications with the enthought toolset;eric jones
+2008;tutorial interactive plots using chaco;peter wang
+2008;tutorial 3-d visualization using tvtk and mayavi;prabhu ramachandran
+2008;keynote;alex martelli
+2008;state of scipy;travis vaught
+2008;state of scipy;jarrod millman
+2008;exploring network structure, dynamics, and function using networkx;aric hagberg
+2008;interval arithmetic: python implementation and applications;stefano taschini
+2008;experiences using scipy for computer vision research;damian eads
+2008;the new numpy documentation framework;stefan van der walt
+2008;matplotlib solves the riddle of the sphinx;michael droettboom
+2008;the scipy documentation project;joe harrington
+2008;sage: creating a viable free python-based open source alternative to magma, maple, mathematica and matlab;william stein
+2008;how the large synoptic survey telescope (lsst) is using python;robert lupton
+2008;real-time astronomical time-series classification and broadcast pipeline;dan starr
+2008;analysis and visualization of multi-scale astrophysical simulations using python and numpy;matthew turk
+2008;mayavi: making 3d data visualization reusable;prabhu ramachandran
+2008;mayavi: making 3d data visualization reusable;gaël varoquaux
+2008;finite element modeling of contact and impact problems using python;ryan krauss
+2008;pycircuitscape: a tool for landscape ecology;viral shah
+2008;summarizing complexity in high dimensional spaces;karl young
+2008;ufuncs: a generic function mechanism in python;travis oliphant
+2008;numpy optimization: manual tuning and automated approaches;evan patterson
+2008;converting python functions to dynamically-compiled c;ilan schnell
+2008;unpython: converting python numerical programs into c;rahul garg
+2008;implementing the grammar of graphics for python;robert kern
+2009;tutorial advanced numpy;stefan van der walt
+2009;tutorial advanced numpy;david cournapeau
+2009;advanced topics in matplotlib;john hunter
+2009;symbolic computing with sympy;ondrej certik
+2009;statistics with scipy;robert kern
+2009;cython;dag sverre seljebotn
+2009;using gpus with pycuda;nicolas pinto
+2009;designing scientific interfaces with traits;enthought
+2009;mayavi/tvtk;prabhu ramachandran
+2009;nipy.timeseries: neuroimaging time-series analysis;ariel rokem
+2009;virtual reality: a tool for the highly quantitative study of animal behavior;andrew straw
+2009;parallel kernels: an architecture for distributed parallel computing;nikunj patel
+2009;papy: parallel and distributed data-processing pipelines in python;marcin cieslik
+2009;high-performance code generation using corepy;andrew friedley
+2009;sherpa: 1d/2d modeling and fitting in python;brian refsdal
+2009;multiprocess system for virtual instruments in python;brian d'urso
+2009;espresso++: a python-controlled, parallel simulation software for soft matter research;olaf lenz
+2009;sympy;ondrej certik
+2009;python implementation of weno interpolation and reconstruction;adrian townsend
+2009;writing safer numpy extensions in c++ with templates and toon;damian eads
+2009;keynote: modeling of materials with python;jonathan guyer
+2009;hermes and femhub project;pavel solin
+2009;the pymca application and toolkit;armando sole
+2009;implementation of automatic script recording and network control for mayavi;prabhu ramachandran
+2009;fast numerical computations with cython;dag sverre seljebotn
+2009;fwrap: the next-generation fortran-to-python interface generator;kurt smith
+2009;pysal: a python library for spatial analysis and geocomputation;serge rey
+2009;neutron scattering data acquisition and experiment automation with python;piotr zolnierczuk
+2009;exploring the future of bioinformatics data sharing and mining with pygr and worldbase;chris lee
+2009;a full software stack for visualizing next-generation sequence information;titus brown
+2009;pyclaw - the evolution of clawpack into python;kyle mandli
+2009;numpy and scipy documentation in 2009 and beyond;joe harrington
+2009;python in science and engineering education in india;prabhu ramachandran
+2009;next challenges for python in science;jarrod millman
+2010;intro;eric jones
+2010;keynote: python concurrency;david beazley
+2010;transparent gpu computing with theano;james bergstra;olivier breuleux;frederic bastien;pascal lamblin;razvan pascanu;guillaume desjardins;joseph turian;yoshua bengio
+2010;a high performance robot vision algorithm implemented in python;movie;chris colbert
+2010;audio-visual automatic speech recognition in python;helge reikeras
+2010;shogun - a large scale machine learning toolbox;sören sonnenburg;gunnar raetsch;sebastian henschel;christian widmer;jonas behr;alexander zien;fabio de bona;christian gehl;alexander binder;vojtech franc
+2010;pythonocc: python meets solid geometry cad;bryan bishop
+2010;divisi: learning from semantic networks and sparse svd;rob speer
+2010;pysph: a python framework for sph;chandrashekhar kaushik;prabhu ramachandran
+2010;assessing borehole geophysical data with python through simulation of borehole flow in fractured bedrock aquifers;andrew reeve;joseph sawdey
+2010;pyeeg: a python module for eeg feature extraction;forrest sheng bao
+2010;modeling sudoku puzzles with python;matthew henderson
+2010;python in science and engineering education in india;prabhu ramachandran
+2010;foundation for mathematical and scientific computing;jarrod millman
+2010;effective use of python in transportation engineering teaching;mehmet kunt
+2010;python and machine learning enabling space weather applications;josef koller
+2010;generating realistic damage models for composite materials using the python programming language;mark benedict
+2010;open knowledge packages and ckan, an archive network;bryan bishop
+2010;do google, bing, & yahoo differ? contingency table analysis on search engines;anthony scopatz
+2010;building web gateways to scientific computing in python;shreyas cholia
+2010;luban: uses pure python to write web application;jiao lin
+2010;keynote: moving forward from the last decade of scipy;travis oliphant
+2010;unusual relationships : python and weaver birds;kadambari devarajan
+2010;simple, fast messaging in python with 0mq and pyzmq;brian granger
+2010;numerical pyromaniacs: the use of python in fire research;kristopher overholt
+2010;weather forecast accuracy analysis;eric floehr
+2010;reproducible research in practice: python as interface language in the madagascar software package;sergey fomel
+2010;statsmodels - statistical modelling in python;skipper seabold
+2010;data structure for statistical computing in python;wes mckinney
+2010;rebuilding the hubble exposure time calculator;perry greenfield
+2010;keeping the chandra satellite cool with python;tom aldcroft
+2010;spacepy - a python-based library of tools for the space sciences;steven morley;josef koller;daniel welling;michael henderson
+2010;satellite image analysis in the cloud: python and parallel computing in the search for tropical deforestation;robin kraft
+2010;using python with smoke and jwst mirrors;warren hack
+2010;astrodata;craig allen
+2010;protein folding with python on supercomputers;jan meinke
+2010;can python save next-generation sequencing?;christopher mueller
+2010;the use of galaxy for the research and the teaching of genomics;rodolfo aramayo;jim hu;raffaele montuoro;roy weckiewicz
+2010;starcluster - numpy/scipy computing in the cloud;justin riley
+2010;pomsets: workflow management for your cloud;michael j pan
+2010;the disco framework: getting down with big data;jared flatow;ville tuulos
+2010;starflow: a cloud-enables python workflow engine for scientific analysis pipelines;elaine angelino;dan yamins;margo seltzer
+2010;a programmatic interface for particle plasma simulation in python, and early backend results with pycuda;min ragan-kelley
+2010;parallel computing with ipython: an application to air pollution modeling;brian granger;josh hemann
+2010;picloud - cloud computing for science. simplified.;ken elkabany;aaron staley;ken park
+2011;tutorial introduction to numpy with ipython and matplotlib;jonathan rocher
+2011;tutorial introduction to scipy : optimization, linear algebra, statistics, and more...;anthony scopatz
+2011;tutorial guide to symbolic mathematics with sympy;mateusz paprocki and aaron meurer
+2011;tutorial introduction to matplotlib, traits, and chaco;corran webster
+2011;tutorial an introduction to bayesian statistical modeling using pymc;christopher j. fonnesbeck and abie flaxman
+2011;tutorial statistical learning with scikit learn;gael varoquaux
+2011;tutorial high performance parallel computing in python using numpy and the global arrays toolkit;jeff daily
+2011;tutorial interactive parallel computing with ipython and pyzmq;min ragan;kelley
+2011;hurricane prediction with python;minwoo lee
+2011;vision spreadsheet: an environment for computer vision;scott determan
+2011;experiment control feedback with web services and python;piotr a. zolnierczuk;yu  jiao;richard riedel
+2011;the open estuary: using open source tools to model texas estuaries;solomon negusse;dharhas pothina
+2011;automation of inertial fusion target design with python;matt terry;joseph koning
+2011;imusim - simulating inertial and magnetic sensor systems in python;martin ling
+2011;sherpa methods for calculating confidence limits on model parameters;brian refsdal
+2011;improving efficiency and repeatability of lake volume estimates using python;tyler mcewen;dharhas pothina
+2011;panel discussion: python in finance;wes mckinney;henry ward;travis oliphant
+2011;a software framework in python for generating optimal isogeometric kernels on the powerpc 450;aron ahmadia;jed brown;nathan collier;tareq malas;john gunnels
+2011;bringing parallel performance to python with domain-specific selective embedded just-in-time specialization;shoaib kamil
+2011;using the global arrays toolkit to reimplement numpy for distributed computation;jeff daily
+2011;a framework for massively-parallel optimization and rigorous sensitivity analysis;michael mckerns
+2011;time series analysis in python with statsmodels;wes mckinney;skipper seabold;josef perktold
+2011;python for brain mining: (neuro)science with state of the art machine learning and data visualization;gael varoquaux
+2011;constructing scientific programs using sympy;mark dewing
+2011;using python to construct a scalable parallel nonlinear wave solver;kyle mandli;manuel quezada;amal alghamdi;aron ahmadia;david ketcheson;william scullin;matthew knepley;lisandro dalcin
+2011;femhub online lab: scientific computing with python in web browsers;mateusz paprocki
+2011;pystream: compiling python onto a gpu;nick bray
+2011;metagraph: a declarative graphing system for python;peter wang
+2011;trappist: a toolkit for comparative analysis and visualization of genomic regions;geraldine van der auwera
+2011;atobrute: why plaintext isn't so vanilla;anthony scopatz
+2011;restful apis for scientific computing in django;shreyas cholia;annette greiner
+2011;the technical and social challenges of getting python into a multi-billion dollar enterprise;josh hemann
+2011;picloud - cloud computing for science. simplified.;ken elkabany;aaron staley;ken park
+2011;python facilitating code refactoring;ben christenson;yahya nazer
+2011;crab: a recommendation engine framework for python;marcel caraciolo;bruno melo;ricardo caspirro
+2011;using python, partnerships, standards and web services to provide water data for texans;dharhas pothina;andrew wilson
+2011;gpustats: gpu library for statistical computing;wes mckinney;andrew cron
+2011;an n-th order approximate interpolation library for python;stephen mcquay
+2011;python and core technologies
+2011;a technical anatomy of spm.python, a scalable, parallel version of python;minesh amin
+2011;ipython: a new architecture for interactive and parallel computing;fernando perez;brian granger;min ragan-kelley;evan patterson;thomas kluyver
+2011;lessons learned building a scalable distributed storage system in python;chuck thier
+2011;audgendb: intuitive biomedical query and reporting tool using django;byron ruth
+2011;meet twiggy: a pythonic logger;pete fein
+2011;google app engine for python;douglas starnes
+2011;pymodel: model-based testing in python;jonathan jacky
+2011;documentation with dexy;ana nelson
+2012;introduction to numpy and matplotlib;eric jones
+2012;scikit-learn;jake vanderplas
+2012;hdf5 is for lovers;anthony scopatz
+2012;advanced matplotlib;ryan may
+2012;efficient parallel python for high-performance computing;kurt smith
+2012;time series data analysis with pandas;wes mckinney
+2012;ipython in-depth: interactive tools for scientific computing;fernando perez
+2012;statsmodels;skipper seabold
+2012;matplotlib: lessons from middle age. or, how you too can turn a hundred lines of patch rejection into two hundred thousand lines of code.;john hunter
+2012;unlock: a pythonbased framework for rapid development of practical braincomputer interface applications;byron galbraith
+2012;numba python bytecode to llvm translator;travis oliphant
+2012;selfdriving lego mindstorms robot;iqbal mohomed
+2012;copperhead: data parallel python;bryan catanzaro
+2012;pysal: a python library for exploratory spatial data analysis and geocomputation;sergio rey
+2012;solving the import problem: scalable dynamic loading network file systems;aron ahmadia
+2012;qndarray: a numpy clone for c++/qt;glen mabey
+2012;implicit multicore parallelism using cncpython;shams imam
+2012;julia: a fast dynamic language for technical computing;jeff bezanson
+2012;openmg: a new multigrid implementation in python;akand islam
+2012;time series manipulation with pandas;wes mckinney
+2012;scipy + mapreduce with disco;al barrentine
+2012;sympy stats  uncertainty modeling;matthew rocklin
+2012;bringing high performance to python/numpy without changing a single line of code.;andreas frimann;simon lund
+2012;parallel high performance statistical bootstrapping in python;aakash prasad
+2012;zen: introducing a pythonic, highperformance network analysis library;derek ruths
+2012;a tale of four libraries;alejandro weinstein
+2012;rofl: a functional python dialect for science;jonathan riehl
+2012;python as super glue for the modern scientific workflow;joshua bloom
+2012;ipython: tools for the entire lifecycle of research computing;fernando perez
+2012;interactive visualization widgets using chaco and enable;corran webster
+2012;total recall: flmake and the quest for reproducibility;anthony scopatz
+2012;bokeh: an extensible implementation of the grammar of graphics for python;peter wang
+2012;nd image segmentation using learned region agglomeration with the ray python library;juan nuneziglesias
+2012;luban: a minimalist uilanguage;jiao lin
+2012;pythontex: fast access to python from within latex;geoffrey poore
+2012;pythons role in visit;cyrus harrison
+2012;forking your way to success and happiness: how github style collaboration is ushering in a new era of amateur led innovation.;tim clem
+2012;param: declarative programming using parameters;james bednar
+2012;enaml  a framework for building declarative user interfaces;chris colbert
+2012;object oriented finite elements at nist;andrew reid
+2012;surface subdivision schemes for python;stephen mcquay
+2012;qutip: an opensource python framework for the dynamics of open quantum systems;robert johansson
+2012;fcm  a python library for flow cytometry;jacob frelinger
+2012;tulip: a toolbox for hybrid and reactive systems research;scott livingston
+2012;nmrglue: a python module for working with nmr data.;jonathan helmus
+2013;tutorial numpy and ipython;valentin haenel
+2013;tutorial guide to symbolic computing with sympy;ondrej certik;mateusz paprocki;aaron meurer
+2013;tutorial data processing with python;ben zaitlen;clayton davis
+2013;tutorial anatomy of matplotlib;benjamin root
+2013;tutorial ipython in depth;fernando perez;brian granger
+2013;tutorial cython: speed up python and numpy, pythonize c, c++, and fortran;kurt smith
+2013;tutorial version control and unit testing for scientific software;matt davis;katy huff
+2013;tutorial an introduction to scikitlearn (i);gael varoquaux;jake vanderplas;olivier grisel
+2013;tutorial diving into numpy code;david cournapea;stefan van der walt
+2013;tutorial statistical data analysis in python;christopher fonnesbeck
+2013;tutorial using geospatial data with python;kelsey jordahl
+2013;tutorial an introduction to scikitlearn (ii);gael varoquaux;jake vanderplas;olivier grisel
+2013;ipython: from the shell to a book with a single tool;the method behind the madness;fernando perez;henry wheeler
+2013;import without a filesystem: scientific python builtin with static linking and frozen modules;pat marion;aron ahmadia;bradley froehle
+2013;ipythonpowered slideshow revealed;avila, damian
+2013;a gentle introduction to machine learning;kastner, kyle
+2013;pyop2: a framework for performanceportable unstructured meshbased simulations and its application to finiteelement computations;florian rathgeber;graham markall
+2013;writing reproducible papers with dexy;ana nelson
+2013;hyperopt: a python library for optimizing the hyperparameters of machine learning algorithms;james bergstra;dan yamins;david cox
+2013;julia and python: a dynamic duo for scientific computing;jeff bezanson;stefan karpinski
+2013;graphterm: a notebooklike graphical terminal interface for collaboration and inline data visualization;saravanan ramalingam
+2013;using python for structured prediction;rob zinkov
+2013;pythran: enabling static optimization of scientific python programs;serge guelton;pierrick brunet;alan raynaud;adrien merlini;mehdi amini
+2013;the advantages of a scientific ide;carlos cordoba
+2013;processing biggish data on commodity hardware: simple python patterns;gael varoquaux
+2013;xdress  type, but verify;anthony scopatz
+2013;an efficient workflow for reproducible science;trevor bekolay
+2013;python tools for coding and feature learning;leif johnson
+2013;trends in machine learning and the scipy community;olivier grisel
+2013;why you should write buggy software with as few features as possible;brian granger
+2013;complex experiment configuration, control, automation, and analysis using robot operating system (ros);john stowers
+2013;mystic: a framework for predictive science;michael mckerns;houman owhadi
+2013;modeling the earth with fatiando a terra;leonardo uieda;vanderlei oliveira
+2013;viper, a new tool to work with ipython notebooks;damian avila
+2013;skdata: data seets and algorithm evaluation protocols in python;james bergstra;nicolas pinto;david cox
+2013;scientific computing and the materials genome initiative;andrew reid
+2013;os deduplication with sidus (singleinstance distributing universal system);emmanuel quemener;marianne corvellec
+2013;infer.py: probabilistic programming and bayesian inference from python;rob zinkov
+2013;multidimensional data exploration with glue;christopher beaumont;thomas robitaille;michelle borkin;alys goodman
+2013;lpedit: an editor to facilitate reproducible analysis via literate programming;adam richards;andrzej kosinski;camille bonneaud
+2013;roadmap to a sentience stack;eric neuman
+2013;the new scientific publishers;william schroeder
+2013;data agnosticism: feature engineering without domain expertise;nicholas kridler
+2013;opening up astronomy with python and astroml;jake vanderplas;zeljko  ivezic;andrew  connolly
+2013;using sumatra to manage numerical simulations;andrew davison;daniel wheeler
+2013;matrix expressions and blas/lapack;matthew rocklin
+2013;parallel volume rendering in yt: user driven & user developed;samuel skillman
+2013;matplotlib: past, present and future;michael droettboom
+2013;scikitfuzzy: a new scipy toolkit for fuzzy logic;joshua warner;hal ottesen
+2013;bringing astronomical tools down to earth;michael droettboom;nadia dencheva;tom aldcroft
+2013;exploring collaborative hpc visualization workflows using visit and python;harinarayan krishnan;cyrus  harrison
+2013;open('/dev/real_world')  raspberry pi sensor and actuator control;jack minardi
+2013;using ipython notebook with ipython cluster for reproducibility and portability of atomistic simulations;zachary trautt
+2013;a comprehensive look at representing physical quantities in python;trevor bekolay
+2013;the open science framework: improving, by opening, science;jeffrey spies;brian  nosek
+2013;analyzing ibm watson experiments with ipython notebook;torsten bittne
+2013;the dynd library;mark wiebe
+2013;lmonade: a platform for development and distribution of scientific software;burcin erocal
+2013;a portrait of one scientist as a graduate student;paul ivanov
+2013;high performance reproducible computing;zhang zhang;todd rosenquist;kent moffat
+2013;reproducible documents with pythontex;geoffrey poore
+2013;dmtcp: bringing checkpointrestart to python;kapil arya;gene cooperman
+2013;sympy gamma and sympy live: python and mathematics online;david li
+2014;tutorial the wonderful world of scientific computing with python;david sanders
+2014;tutorial fundamentals of the ipython display architecture and interactive widgets;brian granger;jonathan frederic
+2014;tutorial sympy  aaron meurer;jason moore;matthew rocklin
+2014;tutorial bayesian statistical analysis using python;chris fonnesbeck
+2014;tutorial anatomy of matplotlib;benjamin root
+2014;tutorial birds in random kaggle forests;matt wescott
+2014;tutorial introduction to julia;david sanders
+2014;tutorial image analysis in python with scipy and scikit-image;juan nunez-iglesias;tony yu
+2014;frequentism and bayesianim: what's the big deal?;jake vanderplas
+2014;geopandas: geospatial data + pandas;kelsey jordahl
+2014;python backends for climate science webapps;nicolas fauchereau
+2014;a common scientific compute environment for research and education;dav clark
+2014;fast algorithms for binary spatial adjacency measures;jason laura, serge rey
+2014;integrating pylearn2 and hyperopt: taking deep learning further with hyperparameter optimization;david wardefarley
+2014;projectbased introduction to scientific computing for physics majors;jennifer klay
+2014;cancelled: the placeiq locationbased analytic platform:;eliza chang, juan huerta
+2014;socialite: pythonintegrated query language for data analysis;jiwon seo
+2014;practical experience in teaching numerical methods with ipython notebooks;david i.ketcheson
+2014;lightweight realtime event detection with python;carson farmer
+2014;the failure of python object serialization: why hpc in python is broken, and how to fix it;michael mckerns
+2014;taking control  enabling mathematicians and scientists;matthew rocklin
+2014;spatialtemporal prediction of climate change impacts using pyimpute, scikitlearn and gdal;matthew perry
+2014;wcsaxes: a framework for plotting astronomical and geospatial data;thomas robitaille
+2014;creating a browserbased virtual computer lab for classroom instruction;ramalingam saravanan
+2014;climate & gis: user friendly data access, workflows, manipulation, analysis and visualization of cli;aashish chaudhary;benjamin koziol;charles doutriaux;chris harris
+2014;pyviennacl: very easy gpgpu linear algebra;toby st clere smithe
+2014;zeke: a python platform for teaching mathematical modeling of infectious diseases;eric lofgren
+2014;cartopy;richard hattersley
+2014;airspeed velocity: tracking performance of python projects over their lifetime;michael droettboom
+2014;scientific computing in the undergraduate meteorology curriculum at millersville university;alex decaria
+2014;ocean model assessment for everyone;richard signell
+2014;reproducible, relocatable, customizable builds and packaging with hashdist;aron ahmadia;andy terrel;chris kees;chris kees;dag sverre seljebotn;ondrej certik
+2014;python for economists (and other social scientists!);david pugh
+2014;realtime crunching of petabytes of geospatial data with google earth engine;tyler erickson;randy sargent
+2014;pymc: markov chain monte carlo in python;chris fonnesbeck
+2014;teaching python to undergraduate students;dominik klaes
+2014;rasterio: geospatial raster data access for programmers and future programmers;sean gillies
+2014;objectoriented programming with numpy using cpython & pypy comparison with c++ & modern fortran;dorota jarecka
+2014;behind the scenes of the university and supplier relationship;alexis perez
+2014;using pynio and mpi for python to help solve a big data problem for the cesm;david brown
+2014;bokeh: interactive visualizations in the browser;bryan van de ven
+2014;the berkeley institute for data science: a place for people like us;fernando perez
+2014;deploying python tools to gis users;shaun walbridge
+2014;conda: a crossplatform package manager for any binary distribution;aaron meurer;ilan schnell
+2014;scikitbio: core bioinformatics data structures and algorithms in python;gregory caporaso;adam robbinspianka;daniel mcdonald;emily teravest;jai ram rideout;john chase;jorge cañardo alastuey;jose antonio navas molina;rob knight;yoshiki vázquezbaeza
+2014;software for panoptes: a citizen science observatory;josh walawender;michael butterfield
+2014;the road to modelr: building a commercial web application on an open source foundation;matt hall
+2014;enhancements to ginga: an astronomical image viewer and toolkit;eric jeschke
+2014;the kbase narrative: bioinformatics for the 99%;stephen chan
+2014;advanced 3d seismic visualization in python;joe kington
+2014;simulating xray observations with python;john zuhone
+2014;building petabytescale comparative genomics pipelines;chris cope;jim deleo
+2014;astropy in 2014;what's new, where we are headed;perry greenfield, erik tollerud;thomas robitaille;tom aldcroft
+2014;the history and design behind the python geophysical modelling and interpretation (pygmi) package;patrick cole
+2014;yt: volumetric data analysis;nathan goldbaum;anthony scopatz;cameron hummels;john zuhone;matthew turk;sam skillman
+2014;clustering of highcontent screen images to discover offtarget phenotypes;juan nuneziglesias
+2014;prototyping a geophysical algorithm in python;karl schleicher
+2014;transient detection and image analysis pipeline for toros project;martin beroiz
+2015;accelerating python with the numba jit compiler;stanley seibert
+2015;agent-based modeling in python with mesa;jackie kazil;david masad
+2015;asdf, a new scientific data format;perry greenfield;michael droettboom;erik bray
+2015;astropy in 2015;erik tollerud
+2015;automated image quality monitoring with iqmon;josh walawender
+2015;basic sound processing in python;speaker: allen downey
+2015;a better default colormap for matplotlib;stefan van der walt
+2015;the biopython project: freely available python tools for computational molecular biology and bioinformatics;tiago antao
+2015;blaze + odo;phillip cloud
+2015;building a cloud-based data science platform with python;stephen hoover
+2015;causal bayesian networkx;michael pacer
+2015;characterizing the seafloor with python as a toolbox;johanna hansen
+2015;circumventing the linker: using scipy's blas and lapack within cython;ian henriksen
+2015;a cloud service to record simulation metadata;yannick congo
+2015;congress &amp;new media: a data driven study of congressional public relations;brian smith
+2015;connecting circuits for asynchronous data workflows;carson farmer
+2015;dask - out-of-core numpy/pandas through task scheduling;james crist
+2015;deep learning: tips from the road;kyle kastner
+2015;deep learning versus segmentation and ml to classify biological images;cedric st-jean
+2015;deploying python machine learning models in production;krishna sridhar
+2015;dexy and docker for scientific reproducibility;ana nelson
+2015;distarray: distributed array computing for python;robert grant;kurt smith
+2015;a distributed, standards-based framework for  searching, accessing, analyzing and visualizing met-ocean data: application to hurricane sandy;richard signell;filipe fernandes;kyle wilcox;andrew yan
+2015;docker for improved reproducibility of scientific python analyses;matthew mccormick
+2015;eigenvector spatial filtering using numpy and arcgis;bryan chastain
+2015;ete: a python programming toolkit for the analysis and visualization of trees;jaime huerta-cepas
+2015;examining malware with python;phil roth
+2015;exploring open access weather radar with the python arm toolkit;jonathan helmus;scott collis
+2015;exploring open source community dynamics with bigbang;sebastian benthall
+2015;flotilla: ipython widgets + computation + dataviz = data-driven conversations;olga botvinnik
+2015;a framework for analyzing gadget simulation data in pandas;jacob hummel
+2015;from 1-day release to 1-min release (or how to recover time with automation);damian avila
+2015;from zero to hero in two years, open collaborative radar software and the secret to our success;scott collis;nick guy;anderson gama;cesar beneti;stephen nesbitt;scott giangrande;maik hiestermann;kai muehlbauer
+2015;geodynamic simulations in hpc with python;nicola creati;roberto vidmar;paolo sterzai
+2015;global hydrology analysis using python;mattheus ueckermann
+2015;hdf5 is eating the world;andrew collette
+2015;holoviews: building complex visualizations easily for reproducible science;jean-luc stevens;philipp rudiger;james a. bednar
+2015;the james webb space telescope data calibration pipeline;howard bushouse
+2015;jupyter / ipython, state of multiuser and real-time collaboration;matthias bussonnier;kester tong
+2015;keep on releasin': continuous delivery for open source;philip elson
+2015;klepto: unified persistent storage to memory, database, or disk;michael mckerns
+2015;librosa: audio and music signal analysis in python;brian mcfee
+2015;the need for new tools for materials discovery;christopher wilmer
+2015;an open-source data archive for expert-annotated dermoscopic images;brian helba
+2015;optimal control and parameter identification of dynamcal systems with direct collocation using sympy;jason moore
+2015;pgmpy: probabilistic graphical models using python;ankur ankan;abinash panda
+2015;the polyglot beaker notebook;scott draves
+2015;practical integration of processing, inversion and visualization of magnetotelluric geophysical data;gudni rosenkjaer
+2015;pycalphad: computational thermodynamics in python;richard otis
+2015;pyeda: data structures and algorithms for electronic design automation;chris drake
+2015;pyneb: nebular analysis tools for astrophysics;richard shaw
+2015;pyrk: a python package for nuclear reactor kinetics;katy huff
+2015;pysplit: a package for the generation, analysis, and visualization of hysplit air parcel trajectories;mellissa cross
+2015;pystruct - structured prediction in python;andreas mueller
+2015;python in data science research and education;randy paffenroth
+2015;python derived imaging biomarkers of dementia;ross mitchell
+2015;python as a first programming language for biomedical scientists;jeannie irwin
+2015;python in tidal energy: three tools used in a collaboration on array optimization;kristen thyng
+2015;python tools for space mission data analyses;michael aye
+2015;qiita: report of progress towards an open access microbiome data analysis and visualization platform;adam robbins-pianka;yoshiki vazquez-baeza
+2015;rapid accurate and simple segmentation of objects in medical images;ross mitchell
+2015;restful hdf;john readey
+2015;scientific computing for undergraduates: getting students into the kitchen;amelia mcbee henriksen
+2015;scientific data analysis and visualization with vtk and paraview;cory quammen
+2015;scientific python using mobile os;roberto colistete
+2015;scikit-bio: a bioinformatics library for data scientists, students, and developers;jai ram rideout;evan bolyen
+2015;signal processing and communications: teaching and research using ipython notebook;mark wickert
+2015;spatial income inequality dynamics in pysal;wei kang;sergio rey
+2015;so how are scientists using python on supercomputers?;michael milligan
+2015;state of the library: matplotlib;thomas caswell;benjamin root
+2015;statistical learning of human brain structure in dipy;stefan van der walt
+2015;story time with bokeh;bryan van de ven
+2015;striplog: wrangling 1d subsurface data;matt hall
+2015;structural cohesion: visualization and heuristics for fast computation with networkx and matplotlib;jordi torrents
+2015;teaching with ipython/jupyter notebooks and jupyterhub;jessica hamrick;min ragan-kelley;kyle kelley
+2015;touch your data! color 3d printing with python;joe kington
+2015;towards a better documentation system for scientific python;carlos cordoba
+2015;trendvis: an elegant interface for dense, sparkline-like, quantitative visualizations of multiple series using matplotlib;mellissa cross
+2015;typing arrays with dynd;mark wiebe
+2015;udl: unified interface for deep learning;haitham elmarakeby
+2015;using python to span the gap between education, research, and industry applications in geophysics;lindsey heagy
+2015;vispy: harnessing the gpu for fast, high-level visualization;luke campagnola
+2015;visualizing physiological signals in real time;sebastian sepulveda
+2015;welcome to the algo wars:  leveraging design thinking for building scalable enterprise intelligent systems using python;zubin dowlaty;subir mansukhani;bharat upadrasta
+2015;what the fortran is ** doing in python?;en zyme
+2015;who needs standard stars anyway? telluric model fitting with telfit;kevin gullikson
+2015;widgets and astropy: accomplishing productive research with undergraduates;matthew craig
+2015;will millennials ever get married?  survival analysis and marriage data;allen downey
+2015;wrapping c and c++ libraries with castxml;brad king;bill hoffman;matthew mccormick;michka popoff
+2015;xray: n-d labeled arrays and datasets;stephan hoyer
+2015;tutorial introduction to numpy (beginner);eric jones
+2015;tutorial machine learning with scikit-learn;andreas mueller
+2015;tutorial cython: blend the best of python and c/++ (intermediate);kurt smith
+2015;tutorial image analysis in python with scipy and scikit-image;joshua warne;stefan van der walt;steven silvester
+2015;tutorial analyzing and manipulating data with pandas;jonathan rocher
+2015;tutorial machine learning with scikit-learn;andreas mueller;kyle kastner
+2015;tutorial building python data applications with blaze and bokeh;christine doig-cardet
+2015;tutorial multibody dynamics and control with python;jason moore;james crist
+2015;tutorial anatomy of matplotlib;benjamin root;joe kington
+2015;tutorial computational statistics i;allen downey;olin college
+2015;tutorial efficient python for high-performance parallel computing;mike mckerns
+2015;tutorial geospatial data with open source tools in python;kelsey jordahl
+2015;tutorial machine learning with scikit-learn;andreas mueller;kyle kastner
+2015;tutorial decorating drones: using drones to delve deeper into intermediate python;matt harrison
+2015;tutorial computational statistics ii;chris fonnesbeck
+2015;tutorial modern optimization methods in python (advanced);mike mckerns
+2015;tutorial jupyter advanced topics tutorial;jonathan frederic;matthias bussonnier;thomas kluyver
+2015;tutorial machine learning with scikit-learn;andreas mueller;kyle kastner
+2015;keynote: data science at the new york times;chris wiggins
+2015;keynote: my data journey with python;wes mckinney
+2015;Keynote: state of the tools;jake vanderPlas
